@@ -1,5 +1,11 @@
 # 👋 About Me
 
+
+## 🐾 My GitAnimals
+<p align="center">
+  <img src="https://render.gitanimals.org/farms/tacoyakki" />
+</p>
+
 ## 🧑‍💻 소개
 백엔드를 공부하는 학생입니다.
 
@@ -19,8 +25,4 @@
 - 안정적인 서버 설계
 - 보안 이해도 향상
 
-## 🐾 My GitAnimals
 
-<p align="center">
-  <img src="https://render.gitanimals.org/farms/tacoyakki" />
-</p>
