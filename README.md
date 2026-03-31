@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 About Me
 
-<!--
-**tacoyakki/tacoyakki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 소개
+백엔드를 공부하는 학생입니다.
 
-Here are some ideas to get you started:
+## ⚙️ 기술
+- Java
+- Spring Boot
+- JPA
+- MySQL
+- Redis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 관심 분야
+- Backend
+- Security
+- Architecture
+
+## 🎯 목표
+- 안정적인 서버 설계
+- 보안 이해도 향상
