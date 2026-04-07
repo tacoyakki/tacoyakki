@@ -5,15 +5,16 @@
 </p>
 
 ## 🐾 Guild GitAnimals
-<a href="https://www.gitanimals.org/" align="center">
+<div align="center">
+  <a href="https://www.gitanimals.org/">
       <img
         src="https://render.gitanimals.org/guilds/829153159753474056/draw"
         width="600"
         height="300"
         alt="gitanimals"
       />
-    </a>
-
+  </a>
+</div>
 ## 🧑‍💻 소개
 백엔드를 공부하는 학생 윤준입니다.
 
