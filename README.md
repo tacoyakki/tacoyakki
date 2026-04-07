@@ -5,7 +5,7 @@
 </p>
 
 ## 🐾 Guild GitAnimals
-<a href="https://www.gitanimals.org/">
+<a href="https://www.gitanimals.org/" align="center">
       <img
         src="https://render.gitanimals.org/guilds/829153159753474056/draw"
         width="600"
