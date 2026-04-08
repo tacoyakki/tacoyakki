@@ -4,7 +4,7 @@
   <img src="https://render.gitanimals.org/farms/tacoyakki" />
 </p>
 
-## 🐾 Guild GitAnimals
+## 🐾 DSM 2026 2-4
 <div align="center">
   <a href="https://www.gitanimals.org/">
       <img
