@@ -17,7 +17,7 @@
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,gradle" />
+  <img src="https://skillicons.dev/icons?i=spring,gradle,nodejs,nestjs" />
 </p>
 
 ### Database
