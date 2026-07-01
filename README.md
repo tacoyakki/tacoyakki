@@ -1,38 +1,53 @@
-# 윤준
+# 안녕하세요
 
+백엔드 개발자를 목표로 공부하고 있는 **대덕소프트웨어마이스터고등학교** 학생입니다.
 
-## 🐾 My GitAnimals
-<p align="center">
-  <img src="https://render.gitanimals.org/farms/tacoyakki" />
+현재는 **Spring Boot**, **JPA**, **Spring Security**, **JWT**를 중심으로 공부하며 프로젝트를 만들고 있습니다.
+
+---
+
+##  기술 스택
+
+### Language
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js" />
 </p>
 
-## 🐾 DSM 2026 2-4
-<div align="center">
-  <a href="https://www.gitanimals.org/">
-      <img
-        src="https://render.gitanimals.org/guilds/829153159753474056/draw"
-        width="600"
-        height="300"
-        alt="gitanimals"
-      />
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,gradle" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=idea,git,github,vscode" />
+</p>
+
+---
+
+## GitHub
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tacoyakki&show_icons=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tacoyakki&layout=compact&theme=transparent" />
+</p>
+
+---
+
+## GitAnimals
+
+<p align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/tacoyakki" width="700"/>
   </a>
-</div>
+</p>
 
-## 🧑‍💻 소개
-백엔드를 공부하는 학생 윤준입니다.
-
-## ⚙️ 기술
-- Java
-- Spring Boot
-- JPA
-- MySQL
-- Redis
-
-## 📌 관심 분야
-- Backend
-- Security
-- Architecture
-
-## 🎯 목표
-- 안정적인 서버 설계
-- 보안 이해도 향상
