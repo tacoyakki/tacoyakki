@@ -37,8 +37,8 @@
 ## GitHub
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tacoyakki&show_icons=true&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tacoyakki&layout=compact&theme=transparent" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tacoyakki&show_icons=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tacoyakki&layout=compact&theme=transparent" />
 </p>
 
 ---
