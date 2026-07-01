@@ -11,13 +11,13 @@
 ### Language
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js" />
+  <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,gradle,nodejs,nestjs" />
+  <img src="https://skillicons.dev/icons?i=spring,gradle" />
 </p>
 
 ### Database
@@ -49,9 +49,9 @@
   <img src="https://streak-stats.demolab.com?user=tacoyakki&theme=transparent&hide_border=true" />
 </p>
 
-## GitAnimals
-
 ---
+
+## GitAnimals
 
 <p align="center">
   <a href="https://github.com/devxb/gitanimals">
